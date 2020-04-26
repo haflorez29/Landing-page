@@ -1,0 +1,27 @@
+.center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#free {
+  margin: 15%;
+}
+
+#header-img {
+  margin-left: 45%;
+}
+
+a {
+  color: #343a40;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 12px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
